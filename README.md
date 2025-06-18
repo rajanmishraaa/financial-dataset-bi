@@ -4,7 +4,7 @@
 This Power BI dashboard provides a clean summary of financial performance based on a structured dataset. It includes core financial KPIs, a profit trend over time, and sales breakdowns by both product and customer segment.
 
 ## Dataset
-- **Source:** Financial_Dataset.csv
+- **Source:** Financial_Datasetmain.csv
 - **Records:** 730
 - **Key Fields:** Date, Product, Segment, Gross Sales, Net Sales, Profit, Units Sold
 
@@ -31,7 +31,7 @@ This Power BI dashboard provides a clean summary of financial performance based 
 5. Applied filters and interactivity for exploratory analysis.
 
 ## Files Included
-- `Financial_Dataset.csv` – The data used to build the dashboard
+- `Financial_Datasetmain.csv` – The data used to build the dashboard
 - `Dashboard - Financial Report Summary.pbix` – Power BI dashboard file
 - `README.md` – Project documentation
 
